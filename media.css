@@ -1,0 +1,44 @@
+@media (min-width: 768px) and (max-width: 1023px) {
+    .header-items {
+        padding-left: 80px;
+    }
+
+    .Log-in {
+
+        margin-left: 70px;
+    }
+
+    .Try-it-for-free {
+
+        margin-right: 0;
+        margin-left: 45px;
+    }
+
+    .promo-container {
+        width: 136%;
+    }
+
+    .header {
+        width: 136%;
+    }
+
+    .localise-block {
+        width: 136%;
+    }
+
+    .edward-cooper-block {
+        width: 136%;
+    }
+
+    .translation-management-software-block {
+        width: 136%;
+    }
+
+    .integrate-Lokalise-container {
+        margin-left: 50%;
+    }
+
+    .localization-made-easy-container {
+        width: 136%;
+    }
+}
