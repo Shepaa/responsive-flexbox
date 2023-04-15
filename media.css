@@ -1,44 +1,271 @@
-@media (min-width: 768px) and (max-width: 1023px) {
-    .header-items {
-        padding-left: 80px;
+@media (max-width: 1146px) {
+    .boost-contain {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1106px) {
+    .shorten-time-text {
+        width: 350px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .shorten-time-text {
+        width: 250px;
+    }
+
+    .localise-second-line {
+        flex-direction: column;
+    }
+
+    .localise-first-line {
+        flex-direction: column;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 950px) {
+    .shorten-time-tittle {
+        width: 265px;
+    }
+}
+
+@media (max-width: 905px) {
+    .main-content {
+        flex-direction: column;
+    }
+
+    .control-localization-process {
+        flex-direction: column;
+    }
+
+    .ensure-quality {
+        flex-direction: column;
+    }
+
+    .ensure-quality-tittle {
+        margin-top: 211px;
+    }
+
+    .less-work {
+        flex-direction: column-reverse;
+    }
+}
+
+@media (max-width: 850px) {
+    .shorten-time {
+        flex-direction: column-reverse;
+    }
+
+    .shorten-time-right-content {
+        padding-top: 200px;
+    }
+}
+
+@media (max-width: 700px) {
+    .promo-tittle {
+        width: 613px;
+    }
+}
+
+@media (max-width: 620px) {
+    .Log-in {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 555px) {
+    .promo-tittle {
+        margin: 0;
+        width: 413px;
+        font-size: 30px;
+    }
+
+    .ensure-quality-text {
+        width: 380px;
+    }
+
+    .less-work-text {
+        width: 405px;
+
+    }
+}
+
+@media (max-width: 485px) {
+    .text-in-main-content {
+        width: 369px;
+    }
+
+    .tittle-in-main-content {
+        font-size: 50px;
+        width: 322px;
+    }
+
+    .control-localization-process-text {
+        width: 360px;
+    }
+
+    .less-work-text {
+        width: 305px;
+    }
+}
+
+@media (max-width: 420px) {
+    .promo-tittle {
+        font-size: 25px;
+        width: 313px;
+    }
+
+    .control-localization-process-text {
+        width: 260px;
+    }
+
+    .ensure-quality-text {
+        width: 280px;
+    }
+
+    .ensure-quality-tittle {
+        width: 297px;
+    }
+
+    .manage-text-size {
+        width: 280px;
+    }
+
+    .developer-text-size {
+        width: 284px;
+    }
+
+    .translators-text {
+        width: 278px;
+    }
+}
+
+@media (max-width: 370px) {
+    .text-in-main-content {
+        width: 269px;
+    }
+
+    .tittle-in-main-content {
+        font-size: 40px;
+    }
+
+    .less-work-tittle {
+        width: 248px;
+    }
+
+}
+
+@media (max-width: 330px) {
+    .promo-tittle {
+        width: 213px;
+    }
+
+    .control-localization-process-title {
+        font-size: 40px;
+        width: 193px;
+    }
+
+    .ensure-quality-text {
+        width: 180px;
+    }
+
+    .less-work-text {
+        width: 205px;
+    }
+
+    .less-work-tittle {
+        font-size: 35px;
+        width: 180px;
+    }
+
+    .first-item-text {
+        width: 203px;
+    }
+
+    .second-item-text {
+        width: 230px;
+    }
+
+    .third-item-text {
+        width: 181px;
+    }
+
+    .localise-first-text {
+        width: 209px;
+    }
+
+    .marketing-text {
+        width: 208px;
+    }
+
+    .ioT-third-text {
+        width: 222px;
+    }
+
+    .manage-text-size {
+        width: 180px;
+    }
+    .developer-text-size{
+        width: 184px;
+    }
+}
+
+@media (max-width: 285px) {
+    .text-in-main-content {
+        width: 150px;
+    }
+
+    .tittle-in-main-content {
+        font-size: 30px;
+        width: 222px;
+    }
+
+    .control-localization-process-text {
+        width: 160px;
+    }
+
+    .shorten-time-text {
+        width: 150px;
+    }
+}
+
+@media (max-width: 250px) {
+    .header-button {
+        flex-direction: column-reverse;
+        margin-left: 30px;
     }
 
     .Log-in {
-
-        margin-left: 70px;
+        margin-left: 10px;
+        margin-top: 10px;
     }
 
-    .Try-it-for-free {
-
-        margin-right: 0;
-        margin-left: 45px;
+    .shorten-time-tittle {
+        font-size: 40px;
+        width: 65px;
     }
 
-    .promo-container {
-        width: 136%;
+    .control-localization-process-title {
+        width: 293px;
+        font-size: 30px;
     }
 
-    .header {
-        width: 136%;
+    .less-work-tittle {
+        font-size: 30px;
+        width: 80px;
     }
 
-    .localise-block {
-        width: 136%;
+    .manage-text-size {
+        width: 80px;
     }
-
-    .edward-cooper-block {
-        width: 136%;
-    }
-
-    .translation-management-software-block {
-        width: 136%;
-    }
-
-    .integrate-Lokalise-container {
-        margin-left: 50%;
-    }
-
-    .localization-made-easy-container {
-        width: 136%;
+    .developer-text-size{
+        width: 84px;
     }
 }
+
+
+
+
+
