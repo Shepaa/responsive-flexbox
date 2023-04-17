@@ -2,19 +2,23 @@
     .boost-contain {
         flex-direction: column;
     }
-    .translation-management-software-block{
+
+    .translation-management-software-block {
         flex-direction: column;
     }
-    .translation-right-content{
+
+    .translation-right-content {
         border: 0;
         margin-top: 20px;
         margin-left: 0;
     }
-    .footer-right-content{
+
+    .footer-right-content {
         margin-left: 0;
 
     }
-    .footer-container{
+
+    .footer-container {
         flex-direction: column;
     }
 }
@@ -23,16 +27,19 @@
     .shorten-time-text {
         width: 350px;
     }
-.edward-cooper-block{
-    flex-direction: column;
-    justify-content: space-around;
-}
-.edward-cooper-photo{
-    margin: 20px;
-}
-.left-edward-cooper-text{
-    margin-top: 20px;
-}
+
+    .edward-cooper-block {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .edward-cooper-photo {
+        margin: 20px;
+    }
+
+    .left-edward-cooper-text {
+        margin-top: 20px;
+    }
 }
 
 @media (max-width: 1000px) {
@@ -76,16 +83,20 @@
     .less-work {
         flex-direction: column-reverse;
     }
-    .footer-right-content{
+
+    .footer-right-content {
         flex-direction: column;
     }
-    .company-block{
+
+    .company-block {
         margin-left: 0;
     }
-    .legal-block{
+
+    .legal-block {
         margin-left: 0;
     }
-    .support-block{
+
+    .support-block {
         margin-left: 0;
     }
 }
@@ -98,26 +109,32 @@
     .shorten-time-right-content {
         padding-top: 200px;
     }
-    .left-edward-cooper-text{
+
+    .left-edward-cooper-text {
         width: 628px;
     }
-    .integrate-Lokalise_tittle{
+
+    .integrate-Lokalise_tittle {
         width: 491px;
     }
-    .localization-made-easy_tittle{
+
+    .localization-made-easy_tittle {
         width: 684px;
     }
 }
+
 @media (max-width: 725px) {
-    .promo-tittle{
+    .promo-tittle {
         width: 600px;
     }
 }
+
 @media (max-width: 700px) {
 
-    .left-edward-cooper-text{
+    .left-edward-cooper-text {
         width: 528px;
     }
+
     .localization-made-easy_tittle {
         width: 384px;
         font-size: 50px;
@@ -125,13 +142,15 @@
 }
 
 @media (max-width: 620px) {
-    .promo-tittle{
+    .promo-tittle {
         width: 513px;
     }
+
     .Log-in {
         margin-left: 0;
     }
-    .integrate-Lokalise_text{
+
+    .integrate-Lokalise_text {
         width: 493px;
     }
 }
@@ -150,28 +169,34 @@
     .less-work-text {
         width: 405px;
     }
-    .control-localization-process-title{
+
+    .control-localization-process-title {
         width: 303px;
     }
-    .left-edward-cooper-text{
+
+    .left-edward-cooper-text {
         width: 428px;
     }
-    .translation-management-tittle{
-        width:361px;
+
+    .translation-management-tittle {
+        width: 361px;
     }
+
     .integrate-Lokalise_tittle {
         width: 391px;
         font-size: 40px;
     }
+
     .integrate-Lokalise_text {
         width: 393px;
     }
 }
 
 @media (max-width: 485px) {
-.boost-contain{
-    margin-left: 0;
-}
+    .boost-contain {
+        margin-left: 0;
+    }
+
     .text-in-main-content {
         width: 369px;
     }
@@ -188,26 +213,33 @@
     .less-work-text {
         width: 305px;
     }
-    .left-edward-cooper-text{
+
+    .left-edward-cooper-text {
         width: 328px;
     }
-    .translation-right-content{
+
+    .translation-right-content {
         flex-direction: column;
         margin-bottom: 125px;
     }
-    .translation-management-tittle{
+
+    .translation-management-tittle {
         width: 261px;
     }
-    .localization-made-easy_text{
+
+    .localization-made-easy_text {
         width: 231px;
     }
+
     .bottom-footer-left-content {
         flex-direction: column;
     }
+
     .footer-fix-position {
-         margin-left: 0;
+        margin-left: 0;
     }
-    .bottom-footer_text{
+
+    .bottom-footer_text {
         width: 75px;
     }
 }
@@ -241,41 +273,51 @@
     .translators-text {
         width: 278px;
     }
+
     .integrate-Lokalise_text {
         width: 293px;
     }
+
     .integrate-Lokalise_tittle {
         width: 291px;
     }
-    .integrate-Lokalise_photo{
+
+    .integrate-Lokalise_photo {
         display: none;
     }
+
     .localization-made-easy_tittle {
         width: 284px;
         font-size: 40px;
     }
 }
+
 @media (max-width: 380px) {
     .less-work-tittle {
         width: 248px;
         font-size: 40px;
 
     }
-    .less-work-left-content{
+
+    .less-work-left-content {
         margin-top: 20px;
     }
-    .shorten-time-tittle{
+
+    .shorten-time-tittle {
         font-size: 30px;
         width: 150px
     }
-    .control-localization-process-title{
+
+    .control-localization-process-title {
         font-size: 30px;
         width: 150px;
     }
-    .less-work-text{
+
+    .less-work-text {
         width: 205px;
     }
 }
+
 @media (max-width: 370px) {
     .text-in-main-content {
         width: 269px;
@@ -286,22 +328,26 @@
     }
 
 
-    .left-edward-cooper-text{
+    .left-edward-cooper-text {
         width: 128px;
     }
 }
+
 @media (max-width: 350px) {
-    .translation-management-tittle{
+    .translation-management-tittle {
         width: 161px;
         font-size: 20px;
     }
-    .bottom-footer{
+
+    .bottom-footer {
         flex-direction: column;
     }
-    .bottom-footer-right_text{
+
+    .bottom-footer-right_text {
         width: 110px;
     }
-    .bottom-footer-right_years{
+
+    .bottom-footer-right_years {
         width: 80px;
     }
 }
@@ -356,31 +402,39 @@
     .manage-text-size {
         width: 180px;
     }
-    .developer-text-size{
+
+    .developer-text-size {
         width: 184px;
     }
-    .translators-text{
+
+    .translators-text {
         width: 178px;
     }
+
     .tittle-in-main-content {
         font-size: 30px;
         width: 222px;
     }
+
     .integrate-Lokalise_tittle {
         width: 191px;
         font-size: 30px;
     }
+
     .integrate-Lokalise_text {
         width: 193px;
     }
+
     .localization-made-easy_tittle {
         width: 184px;
         font-size: 30px;
     }
-    .case-studio_photo{
+
+    .case-studio_photo {
         display: none;
     }
-    .case-studio_text{
+
+    .case-studio_text {
         width: 190px;
     }
 }
@@ -391,7 +445,6 @@
     }
 
 
-
     .control-localization-process-text {
         width: 160px;
     }
@@ -399,7 +452,8 @@
     .shorten-time-text {
         width: 150px;
     }
-    .case-studio_tittle{
+
+    .case-studio_tittle {
         width: 157px;
     }
 }
@@ -433,7 +487,8 @@
     .manage-text-size {
         width: 80px;
     }
-    .developer-text-size{
+
+    .developer-text-size {
         width: 84px;
     }
 }
