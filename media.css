@@ -290,6 +290,9 @@
         width: 284px;
         font-size: 40px;
     }
+    .case-studio{
+        margin-left: 0;
+    }
 }
 
 @media (max-width: 380px) {
